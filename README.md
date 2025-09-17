@@ -13,7 +13,7 @@
 1. **Install Tampermonkey** (or Greasemonkey or others).  
 2. Click the button below or paste the script into a new Tampermonkey script and save.
 
-<a href="https://raw.githubusercontent.com/techfun4/iclicker-userscript/main/iclicker.js">
+<a href="https://raw.githubusercontent.com/techfun4/iclicker-userscript/main/iclicker.user.js">
 📥 Install to Tampermonkey
 </a>
 
