@@ -17,6 +17,8 @@
 📥 Install to Tampermonkey
 </a>
 
+Alternatively, you can also copy the contents of the file into your browser console.
+
 ### ▶Usage
 1. Log in at `student.iclicker.com`.  
 2. Keep the tab open; the script will:
